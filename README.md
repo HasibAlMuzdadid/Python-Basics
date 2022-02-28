@@ -1,1 +1,18 @@
-# Python-Basics
+## Project : Basics of Python
+[![Author](https://img.shields.io/badge/Author-Hasib%20Al%20Muzdadid-blue)](https://github.com/HasibAlMuzdadid)
+[![MIT License](https://img.shields.io/badge/License-MIT%20License-important)](https://github.com/HasibAlMuzdadid/Python-Basics/blob/main/LICENSE)
+
+
+
+**Author :** </br>
+Hasib Al Muzdadid</br>
+Department of Computer Science & Engineering, </br>
+Rajshahi University of Engineering & Technology (RUET) </br>
+Email: muzdadid@gmail.com
+
+## Project Description :
+This is a basic python course of 5 and half hours long and which is offered by **TechWorld with Nana** on youtube. You can take this online course if you are a beginner of Python. Best wishes!!!:wink:</br>
+
+**Course Link :** https://youtu.be/t8pPdKYpowI</br>
+**Language used :** Python <br/>
+**Development Tools :** PyCharm
