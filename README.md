@@ -10,7 +10,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
-Email: muzdadid@gmail.com
+Email: muzdadid[AT]gmail.com
 
 ## Project Description :
 This is a basic python course of 5 and half hours long and which is offered by [**TechWorld with Nana**](https://www.youtube.com/c/TechWorldwithNana) on [youtube](https://www.youtube.com/). You can take this online course if you are a beginner of Python. Best wishes!!!:wink:</br>
